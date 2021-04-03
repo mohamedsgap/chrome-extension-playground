@@ -5,12 +5,9 @@
   "version": "1.0",
   "author": "Mohamed Abdel Nasser",
   "browser_action": {
-    "default_icon": "tab-icon.png",
+    "default_icon": "tab-icon.jpg",
     "default_title": "movies you like",
     "default_popup": "popup.html"
-  },
-  "chrome_url_overrides": {
-    "newtab": "newtab.html"
   },
   "permissions": ["activeTab"]
 }
